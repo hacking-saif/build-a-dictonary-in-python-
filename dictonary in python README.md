@@ -1,5 +1,4 @@
 # build-a-dictonary-in-python-
-#this dictnory is giving info about the gamename enter by the user
 mydict={
     "watchdog":'''this game is of 20 gb download size 
     requried:25 gb hard disk storage and 8 gb ram windows/7/8/10 64.bit''',
